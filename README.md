@@ -41,6 +41,17 @@ We’ve created a Trello board to keep everything organized, both for ourselves 
 
 ---
 
+## r/backrooms post & new affiliation: Buggie Studios
+
+We’ve managed to promote the game on the biggest backroom subreddit thread, r/backrooms.
+If you write a comment or you do an upvote we will apreciate it.
+**[Link here](https://www.reddit.com/r/backrooms/comments/1sgjjdh/recruiting_backrooms_roblox_project_project/)**
+
+And we’ve partnered with Buggie Studios, a team of developers of horror games on Roblox.
+They are going to provide us with 3D textures and models for the entities, so the development will go faster.
+
+---
+
 ## Developer team
 
 ### Owner
