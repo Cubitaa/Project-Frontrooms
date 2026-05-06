@@ -185,7 +185,8 @@ My only doubt is whether to add entities like smilers at this level or not, sinc
 
 ---
 
-## 🏠 Level 9
+## 🏠 Level 9 (WIP)
+Currently in progress
 
 ---
 
@@ -198,5 +199,5 @@ All that’s left is to create the barn, use the forest as a model and lower the
 
 ---
 
-## 🌐 The Hub
+## 🌐 The Hub (WIP)
 Currently in progress, the hub’s function will be to use key levels to freely access unlocked levels.
