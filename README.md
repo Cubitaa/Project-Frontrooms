@@ -1,37 +1,48 @@
-# Project Frontrooms
+# 🎮 Project FrontRooms
 
 [![DevForum](https://img.shields.io/badge/DevForum-Development%20Logs-00BFFF?style=for-the-badge&logo=robloxstudio&logoColor=white)](https://devforum.roblox.com/t/a-different-kind-of-backroom-game-project-frontrooms/4366543)
 [![Roblox](https://img.shields.io/badge/Roblox-Group-red?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/communities/7118742/MultiFandom-Studios#!/about)
-
 [![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wnwWBgFVM3)
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MultiFandom.Studios)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:multifandom.studios.rblx@gmail.com)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:multifandom.studios.rblx@gmail.com)
+---
 
-
-
+## 👋 Introduction
 
 Hello!
 
-I'm Cuba, a Spanish multi-developer currently leading and working on **"Project FrontRooms"** — a realistic Roblox Backrooms game that combines **RPG-survival**, **horror**, and a **non-linear open world**, staying fully faithful to the Wikidot and Fandom lore.
+I'm **Cuba**, a Spanish multi-developer currently leading and working on **Project FrontRooms** — a realistic Roblox Backrooms experience that combines **RPG-survival gameplay**, **horror elements**, and a **non-linear open world**, while staying fully faithful to the **Wikidot and Fandom lore**.
 
-<br>
+---
 
-This project began as my very first game development experience at 17. While it's often recommended to start with small projects, this one has pushed me to learn far more than I expected — taking me from having no programming knowledge to writing thousands of lines of code, including systems for **procedural and infinite world generation**.
+This project started as my first real game development experience at the age of 17. Although it is usually recommended to begin with small projects, this one pushed me far beyond my initial limits.
 
-<br>
+It took me from having **zero programming knowledge** to building systems with thousands of lines of code, including **procedural and infinite world generation**, gameplay systems, and core infrastructure.
 
-The idea originally came from watching a Kane Pixels video back in 2022, which got me deeply interested in the Backrooms universe. As a fan of SCP-style concepts, I quickly became immersed in this kind of world. However, at the time, I didn’t see myself building a serious game project.
+---
 
-Instead, I focused on learning the fundamentals: building in Roblox Studio, designing interfaces, programming, and basic animation — gradually improving until reaching where the project stands today.
+The idea originally came from a Kane Pixels video in 2022, which introduced me to the Backrooms universe. As someone already interested in SCP-style concepts, I quickly became immersed in this world.
 
-<br>
+At that time, I did not consider myself capable of developing a full game. Instead, I focused on learning step by step:
+- Roblox Studio building  
+- UI design  
+- Programming fundamentals  
+- Basic animation  
 
-Active development of the game started in September 2025, when I began working on it more seriously. Since I'm currently handling most of the development on my own, progress can be slow, but steady.
+Over time, this foundation evolved into the project you see today.
 
-<br>
+---
 
-Before diving into the current progress and features, you can check the FAQ section from my **[Discord server](https://discord.gg/wnwWBgFVM3)** for additional context.
+Active development began in **September 2025**, when I decided to take the project seriously. Since I currently handle most of the development, progress is gradual but continuous.
+
+---
+
+Before diving into the technical details, you can check the FAQ section in our **[Discord server](https://discord.gg/wnwWBgFVM3)** for additional context.
+
+---
+
+## 📸 Early Development Screenshots
 
 | | |
 |:-:|:-:|
@@ -40,62 +51,107 @@ Before diving into the current progress and features, you can check the FAQ sect
 
 ---
 
-## Trello
+## 📱 Supported Devices
 
-We’ve created a Trello board to keep everything organized, both for ourselves and for future players. There you’ll find general information, developer logs, details about mechanics, levels, items, and entities, and even things like the skill tree and the lore itself.
+The game will support:
+- 💻 PC  
+- 📱 Mobile  
+- 🎮 Consoles  
 
+---
+
+## 📋 Development Organization (Trello)
+
+We maintain a structured **Trello board** to organize development for both the team and future players.
+
+It includes:
+- Mechanics overview  
+- Level design documentation  
+- Entity systems  
+- Item progression  
+- Skill tree structure  
+- Lore development  
+- Developer logs  
+
+---
+
+### 📊 Trello Preview
 
 <img width="1500" height="600" src="https://github.com/user-attachments/assets/ab85a070-343b-4b70-b5e0-30dbb39fd574" />
 <img width="1500" height="600" src="https://github.com/user-attachments/assets/57e10527-7f9d-43b5-b068-8f32e1b9b2eb" />
 
 ---
 
-## r/backrooms post & new affiliation: Buggie Studios
+## 🌐 Community & Affiliations
 
-We’ve managed to promote the game on the biggest backroom subreddit thread, r/backrooms.
-If you write a comment or you do an upvote we will apreciate it.
-**[Link here](https://www.reddit.com/r/backrooms/comments/1sgjjdh/recruiting_backrooms_roblox_project_project/)**
+### 🔴 r/backrooms Promotion
 
-And we’ve partnered with Buggie Studios, a team of developers of horror games on Roblox.
-They are going to provide us with 3D textures and models for the entities, so the development will go faster.
+We have promoted the project in the official Backrooms community subreddit:
+
+👉 https://www.reddit.com/r/backrooms/comments/1sgjjdh/recruiting_backrooms_roblox_project_project/
+
+If you enjoy the concept, upvotes and feedback are greatly appreciated.
 
 ---
 
-## Developer team
+### 🤝 Partnership: Buggie Studios
 
-### Owner
+We are currently partnered with **Buggie Studios**, a Roblox horror development team.
 
-- **Cubita** - Owner / Project Director, Programming Director, Porting programmer, Animator, game Designer (UIs),
-Social Media Manager, Artist, BrainStormer
+They are supporting the project by providing:
+- 3D entity models  
+- High-quality textures  
+- Asset optimization support  
 
-### Co-Owners
+This will significantly accelerate development quality and speed.
 
-- **David** - Co-Owner, Builder & Modeler Director, Artist, BrainStormer
+---
 
-- **Mini_Crack** - Co-Owner, Animator & Admin Director, Programmer
+## 👥 Development Team
 
-### Directors
+### 🧠 Owner
 
-- **Calala** - Design Director, artist
+- **Cubita** — Project Director, Programming, UI Design, Game Design, Animation, Social Media, Artist, Brainstorming
 
-- **Boizoji** - Lore Director
+---
 
-- **Uniworm** - SFX Director, musician
+### 🧩 Co-Owners
 
-- **Goatdrill** - Community Manager, Admin
+- **David** — Builder & Modeling Director, Brainstorming  
+- **Mini_Crack** — Animator & Admin Director, Programmer 
 
-### Affiliations
+---
 
-- **Buggie Studios** - Multiple entity models & 3d textures
+### 🎨 Directors
 
-### Developers
+- **Calala** — Design Director, Artist
+- **Boizoji** — Lore Director
+- **Uniworm** — SFX Director & Music Composer
+- **Goatdrill** — Community Manager, Admin
 
-- **Jerry** - Builder, BrainStormer
+---
 
-- **ComeAbuelitas33** - Artist, Admin
+### 🤝 Affiliations
 
-- **Blessy** - Lore creation, BrainStormer
+- **Buggie Studios** — 3D models & textures  
 
-> Special mention to my girlfriend (Comeabuelitas33), thanks to whom I am here today and I did not give up on the project, ty for all the support My Love<3
-> 
-> We need animator btw
+---
+
+### 👨‍💻 Developers
+
+- **Jerry** — Builder, Brainstorming  
+- **ComeAbuelitas33** — Artist, Admin  
+- **Blessy** — Lore Design, Brainstorming  
+
+---
+
+## ❤️ Special Thanks
+
+Special mention to my girlfriend (**ComeAbuelitas33**), whose support has been essential in continuing this project and not giving up.
+
+Thank you for everything, my love<3
+
+---
+
+We are currently also looking for:
+🎬 Animators
