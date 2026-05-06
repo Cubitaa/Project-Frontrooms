@@ -1,6 +1,15 @@
 # Project Frontrooms
 
 [![DevForum](https://img.shields.io/badge/DevForum-Development%20Logs-00BFFF?style=for-the-badge&logo=robloxstudio&logoColor=white)](https://devforum.roblox.com/t/a-different-kind-of-backroom-game-project-frontrooms/4366543)
+[![Roblox](https://img.shields.io/badge/Roblox-Group-red?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/communities/7118742/MultiFandom-Studios#!/about)
+
+[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wnwWBgFVM3)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MultiFandom.Studios)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:multifandom.studios.rblx@gmail.com)
+
+
+
 
 Hello!
 
