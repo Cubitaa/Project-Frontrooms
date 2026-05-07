@@ -1,4 +1,4 @@
-# 🎮 Project FrontRooms
+# 🎮 Project FrontRooms - A Backrooms Game
 
 [![DevForum](https://img.shields.io/badge/DevForum-Development%20Logs-00BFFF?style=for-the-badge&logo=robloxstudio&logoColor=white)](https://devforum.roblox.com/t/a-different-kind-of-backroom-game-project-frontrooms/4366543)
 [![Roblox](https://img.shields.io/badge/Roblox-Group-red?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/communities/7118742/MultiFandom-Studios#!/about)
@@ -7,6 +7,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:multifandom.studios.rblx@gmail.com)
 
 ---
+
+**We are currently also looking for:**
+- 🎬 Animators
+- ⚡ Modellers
 
 ## 👋 Introduction
 
@@ -147,11 +151,6 @@ This will significantly accelerate development quality and speed.
 
 ## ❤️ Special Thanks
 
-Special mention to my girlfriend (**ComeAbuelitas33**), whose support has been essential in continuing this project and not giving up.
+Special mention to my girlfriend Michelle (Comeabuelitas33), whose support has been essential in continuing this project and not giving up.
 
 Thank you for everything, my love<3
-
----
-
-We are currently also looking for:
-🎬 Animators
