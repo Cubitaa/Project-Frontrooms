@@ -8,11 +8,11 @@ This is the planned list for the **Beta release** (subject to changes during dev
 
 ## ♾️ Procedural & Infinite Levels
 
-- Level 0  
-- Level 2  
+- [Level 0](#level-0) 
+- [Level 2](#level-2-wip)  
 - Level 5 *(may change)*  
 - Level 8  
-- Level 10  
+- [Level 10](#level-10)  
 - Level 37  
 - Level 922337… *(infinite along Y-axis only)*  
 - Level FUN *(non-procedural but infinite structure)*  
@@ -21,18 +21,18 @@ This is the planned list for the **Beta release** (subject to changes during dev
 
 ## 🧱 Finite / Non-Procedural Levels
 
-- Level 1  
-- Level 3  
+- [Level 1](#level-1-wip)
+- [Level 3](#level-3-wip)
 - Level 4  
-- Level 6  
+- [Level 6](#level-6)  
 - Level 7 *(may include dual boss encounters)*  
-- Level 9  
+- [Level 9](#level-9-wip) 
 - Level 11  
 - Level 34 *(thank god)*  
 - Level 188  
 - Level !  
 - The End  
-- The Hub  
+- [The Hub](#the-hub-wip)  
 - Level 3999  
 - The Grave  
 
